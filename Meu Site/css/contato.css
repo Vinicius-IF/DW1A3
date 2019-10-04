@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+	margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+}
+
+#direita1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    text-align: center;
+    color: tan;
+    list-style: none;
+    width: 200px;
+    height: 232px;
+    background-color: maroon;
+    float: right;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 80%;
+   
+}
+
+#contato{
+    background-color: maroon;
+	color: tan;
+    padding: 2%;
+}
+
+header{
+    background-color: maroon;
+    color: tan;
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 50px;
+}
+#ops {
+    color: black;
+    background-color: black;
+}

@@ -1,0 +1,77 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+	margin-left: auto;
+	margin-right: auto;
+}
+header{
+    background-color: maroon;
+    color: tan;
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 50px;
+}
+
+h2, h3 {
+    font-family: 'Arial';
+}
+
+#ops {
+    color: black;
+    background-color: black;
+}
+#op{
+	font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+    width: 720px;
+    height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#direita {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    text-align: center;
+    color: tan;
+    list-style: none;
+    width: 200px;
+    height: 1000px;
+    background-color: maroon;
+    float: right;
+}
+
+blockquote{
+	background-color: tan;
+	padding: 10px;
+    border: 10px solid maroon;
+    width: 20vw;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 80%;
+   
+}
+#sobre{
+    background-color: maroon;
+	color: tan;
+    padding: 2%;
+}
+
+table{
+    border: 4px solid maroon;
+    border-collapse: collapse;
+}
+td {
+    border: 4px solid maroon;
+    padding: 5px 10px;
+    }
+thead {
+    background-color: maroon;
+}
+th{
+    border: 4px solid maroon;
+}
