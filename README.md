@@ -13,4 +13,4 @@ Exercicios JS:
   
 [Exercicio 1](AtividadesJS/Ex1/saudacoes.html)  
 
-[Exercicio 2](AtividadesJS/Ex1/saudacoes.html)
+[Exercicio 2](AtividadesJS/Ex2/form.html)
