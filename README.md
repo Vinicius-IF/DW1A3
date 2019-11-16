@@ -11,4 +11,6 @@ Prontuário: SP301570X
 Exercicios JS:  
   
   
-[Exercicio 1](AtividadesJS/Ex1/saudacoes.html)
+[Exercicio 1](AtividadesJS/Ex1/saudacoes.html)  
+
+[Exercicio 2](AtividadesJS/Ex1/saudacoes.html)
