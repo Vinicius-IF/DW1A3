@@ -1,0 +1,32 @@
+<!Doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title> Exercício 2</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/form.css">
+</head>
+<main>
+    <header>Formulário</header>
+    <p>Escolha a opção desejada:</p>
+
+  <form name="form1">
+
+        <input type='checkbox' name='tudo' onclick='verificaStatus(this)' /> Selecionar tudo<br>
+		<input type="checkbox" name="ckb[]" value="1" /> Opção 1<br>
+		<input type="checkbox" name="ckb[]" value="2" /> Opção 2<br>
+		<input type="checkbox" name="ckb[]" value="3" /> Opção 3<br>
+        <input type="checkbox" name="ckb[]" value="4" /> Opção 4<br>
+        <input type='checkbox' name='tudo' onclick='verificaStatus(this)' /> Selecionar tudo<br>
+        <p>Digite o que deseja: </p>
+        <div>
+            <textarea id="txtVoce" name="txtVoce" cols="40" rows="10"></textarea>
+            <p><span id="carResTxtVoce" style="font-weight: bold;">100</span> caracteres restantes</p>
+        </div>
+	    <input type="reset" value="Resetar" />
+        
+</main>
+<script src="js/form.js"></script>
+
+</html>
