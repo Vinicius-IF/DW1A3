@@ -8,5 +8,7 @@ Prontuário: SP301570X
 
 [Meu Site](Meu Site/bio.html)
   
+Exercicios:  
+  
   
 [Exercicio 1](AtividadesJS/Ex1/saudacoes.html)
