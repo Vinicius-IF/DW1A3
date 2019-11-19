@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8">
+        <link rel="stylesheet"  href="css/ConversorTemp.css">
+		<title>Temperatura</title>
+	</head>
+	<body>
+    <h1>Conversor de Temperatura</h1>
+    
+	<form>
+        <table>
+            <tr>
+                <td><input type="text" id="valor_A" onchange="celcius"></td>
+                <td>=</td>
+                <td><input type="text" id="valor_B" onchange="farenheit"></td>
+            </tr>
+            <tr>
+                <td>Celsius</td>
+                <td> </td>
+                <td>Farenheit</td>
+            </tr>
+        </table>
+        <p>
+            <input type="button" id="btnCalcular" value="calcular" onclick="calcular()">
+        </p>
+        </form>
+    <script src="conversortemp.js"></script>
+	</body>	
+</html>
