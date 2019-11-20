@@ -25,4 +25,6 @@ Exercicios JS:
 
 [Exercicio 7](AtividadesJS/Ex7/imc.html)
   
-[Exercicio 8](AtividadesJS/Ex8/efeitosMenu.html)
+[Exercicio 8](AtividadesJS/Ex8/efeitosMenu.html)  
+
+[Exercicio 9](AtividadesJS/Ex9/carrossel.html)
