@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    font-size: xx-large;
+    background-color: goldenrod;
+}
+body{
+    background-color: gold;
+}
+table, td{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-collapse: collapse;
+}

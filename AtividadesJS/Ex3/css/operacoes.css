@@ -1,0 +1,15 @@
+header{
+    font-size: 5vh;
+    background-color: brown;
+    text-align: center;
+    
+}
+body{
+    background-color: tomato;
+}
+table, tr, th{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+}
